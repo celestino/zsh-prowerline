@@ -2,7 +2,7 @@
 # zsh powerline style shell
 
 
-[powerline-fonts]
+The [powerline-fonts][fonts] are required.
 
 
-[powerline-fonts] https://github.com/Lokaltog/powerline-fonts "Poerline-Fonts"
+[fonts]: https://github.com/Lokaltog/powerline-fonts "Poerline-Fonts"
